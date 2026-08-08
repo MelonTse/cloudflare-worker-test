@@ -1,5 +1,0 @@
-{
-  "name": "cloudflare-worker-test",
-  "main": "src/index.js",
-  "compatibility_date": "2026-08-08"
-}
